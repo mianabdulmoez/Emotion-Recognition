@@ -1,0 +1,7 @@
+1. User need to Signup
+2. Then user can login with username and password
+3. User had 2 options to select (Upload Image, Open Camera)
+4. If user select Upload Image then image should be in same directory where the project is saved.
+5. User can also see the emotions in emotion_result.csv file.
+6. If user select Open Camera then user need to press 'q' to close the camera.
+7. In Camera it just show the live time emotions of the user.
